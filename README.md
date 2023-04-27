@@ -2,9 +2,9 @@
 ## Projeto para demonstrar e praticar os conceitos do acronico SOLID
 
 ### SOLID:
-* SOLID são uma série de principios e boas práticas de programação para garantir que o código seja legível, fácil de manter e escalável.
+SOLID são uma série de principios e boas práticas de programação para garantir que o código seja legível, fácil de manter e escalável.
 
-- Single Responsibility Principle (Princípio da Responsabilidade Única): cada classe ou módulo do código deve ter apenas uma responsabilidade bem definida.
+* Single Responsibility Principle (Princípio da Responsabilidade Única): cada classe ou módulo do código deve ter apenas uma responsabilidade bem definida.
 
 - Open/Closed Principle (Princípio Aberto/Fechado): o código deve estar aberto para extensão, mas fechado para modificação, ou seja, novas funcionalidades devem ser adicionadas sem afetar o código existente.
 
