@@ -47,5 +47,4 @@ public class S_SingleResponsabilitySolution {
         private double salary;
         private String jobTitle;
     }
-
 }
